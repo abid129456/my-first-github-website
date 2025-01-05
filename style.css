@@ -1,5 +1,21 @@
 div{
     background-color: chartreuse;
     padding-bottom: 10px;
-    
+
+}
+.abid{
+    height: 200px;
+    width: 200px;
+}
+.blog{
+    background-color: rgb(19, 240, 129);
+}
+.song{
+    background-color: red;
+}
+.hasan{
+    background-color: red;
+}
+.color{
+    background-color: red;
 }
